@@ -1,0 +1,54 @@
+
+  body {
+   margin: 0px;
+  }
+  .pad {
+   padding: 25px;
+  }
+  .header {
+   background-color: lightblue;
+   color: red;
+   height: 100px;
+   width: 100%;
+   font-size: 36pt;
+   text-align: center;
+  }
+
+  #Click {
+    color:darkblue ;
+  }
+
+  .welcome {
+   background-color:hotpink;
+   color: white;
+   font-size: 16pt;
+   text-align: center;
+   height: 40px;
+   width: 100%;
+   margin: 0px;
+   padding-top: 25px;
+  }
+  .main-text {
+   width:70%;
+   height: 570px;
+   float: center;
+   background-color:white;
+   text-align: center;
+  }
+
+  .team-photo{
+    position: relative;
+    left: 8px;
+    top: 30px;
+  }
+  .divs {
+   margin: 5px;
+   width: 135px;
+   float: left;
+   border: 4px solid lightblue;
+  }
+
+  .password{
+    margin: 10px;
+    padding: 10px;
+  }
